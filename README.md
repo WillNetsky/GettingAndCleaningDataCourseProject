@@ -1,7 +1,9 @@
 # README
 ## Files
 run_analysis.R - downloads and cleans the Accelerometer dataset
+
 CodeBook.md - Lists and describes the variables
+
 README.md - This file right here
 
 ## What I did
