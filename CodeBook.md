@@ -17,6 +17,7 @@ Subject - The indvidual from which the data was gathered
 Activity - A string denoting what type of activity was taking place during the time of the measurements
 
 **The following variables were gathered from the device**
+
 tBodyAcc XYZ
 
 tGravityAcc XYZ
@@ -51,7 +52,8 @@ fBodyGyroMag
 
 fBodyGyroJerkMag
 
-**The following functions were applied to each variable** 
+**The following functions were applied to each variable**
+ 
 mean(): Mean value
 
 std(): Standard deviation
