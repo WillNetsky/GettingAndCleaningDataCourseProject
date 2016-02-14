@@ -18,25 +18,42 @@ Activity - A string denoting what type of activity was taking place during the t
 
 **The following variables were gathered from the device**
 tBodyAcc XYZ
+
 tGravityAcc XYZ
+
 tBodyAccJerk XYZ
+
 tBodyGyro XYZ
+
 tBodyGyroJerk XYZ
+
 tBodyAccMag
+
 tGravityAccMag
+
 tBodyAccJerkMag
+
 tBodyGyroMag
+
 tBodyGyroJerkMag
+
 fBodyAcc XYZ
+
 fBodyAccJerk XYZ
+
 fBodyGyro XYZ
+
 fBodyAccMag
+
 fBodyAccJerkMag
+
 fBodyGyroMag
+
 fBodyGyroJerkMag
 
 **The following functions were applied to each variable** 
 mean(): Mean value
+
 std(): Standard deviation
 
 
